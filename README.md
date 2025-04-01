@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre gamer me segue a gente nas redes abaixo!
  
 <div> 
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/badmibr">
